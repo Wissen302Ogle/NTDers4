@@ -1,0 +1,6 @@
+c:\users\section2\source\repos\NTDers4\Break\bin\Debug\Break.exe.config
+c:\users\section2\source\repos\NTDers4\Break\bin\Debug\Break.exe
+c:\users\section2\source\repos\NTDers4\Break\bin\Debug\Break.pdb
+c:\users\section2\source\repos\NTDers4\Break\obj\Debug\Break.csproj.CoreCompileInputs.cache
+c:\users\section2\source\repos\NTDers4\Break\obj\Debug\Break.exe
+c:\users\section2\source\repos\NTDers4\Break\obj\Debug\Break.pdb

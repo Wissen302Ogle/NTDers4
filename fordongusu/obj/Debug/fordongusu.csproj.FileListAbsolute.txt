@@ -1,0 +1,7 @@
+c:\users\section2\source\repos\NTDers4\fordongusu\bin\Debug\fordongusu.exe.config
+c:\users\section2\source\repos\NTDers4\fordongusu\bin\Debug\fordongusu.exe
+c:\users\section2\source\repos\NTDers4\fordongusu\bin\Debug\fordongusu.pdb
+c:\users\section2\source\repos\NTDers4\fordongusu\obj\Debug\fordongusu.csproj.CoreCompileInputs.cache
+c:\users\section2\source\repos\NTDers4\fordongusu\obj\Debug\fordongusu.exe
+c:\users\section2\source\repos\NTDers4\fordongusu\obj\Debug\fordongusu.pdb
+c:\users\section2\source\repos\NTDers4\fordongusu\obj\Debug\fordongusu.csprojResolveAssemblyReference.cache

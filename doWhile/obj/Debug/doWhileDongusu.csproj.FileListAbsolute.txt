@@ -1,0 +1,7 @@
+c:\users\section2\source\repos\NTDers4\doWhile\bin\Debug\doWhile.exe.config
+c:\users\section2\source\repos\NTDers4\doWhile\bin\Debug\doWhile.exe
+c:\users\section2\source\repos\NTDers4\doWhile\bin\Debug\doWhile.pdb
+c:\users\section2\source\repos\NTDers4\doWhile\obj\Debug\doWhileDongusu.csproj.CoreCompileInputs.cache
+c:\users\section2\source\repos\NTDers4\doWhile\obj\Debug\doWhile.exe
+c:\users\section2\source\repos\NTDers4\doWhile\obj\Debug\doWhile.pdb
+c:\users\section2\source\repos\NTDers4\doWhile\obj\Debug\doWhileDongusu.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+c:\users\section2\source\repos\NTDers4\WhileDongusu\bin\Debug\WhileDongusu.exe.config
+c:\users\section2\source\repos\NTDers4\WhileDongusu\bin\Debug\WhileDongusu.exe
+c:\users\section2\source\repos\NTDers4\WhileDongusu\bin\Debug\WhileDongusu.pdb
+c:\users\section2\source\repos\NTDers4\WhileDongusu\obj\Debug\WhileDongusu.csprojResolveAssemblyReference.cache
+c:\users\section2\source\repos\NTDers4\WhileDongusu\obj\Debug\WhileDongusu.csproj.CoreCompileInputs.cache
+c:\users\section2\source\repos\NTDers4\WhileDongusu\obj\Debug\WhileDongusu.exe
+c:\users\section2\source\repos\NTDers4\WhileDongusu\obj\Debug\WhileDongusu.pdb

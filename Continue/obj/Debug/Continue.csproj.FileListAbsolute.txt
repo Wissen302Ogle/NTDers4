@@ -1,0 +1,7 @@
+c:\users\section2\source\repos\NTDers4\Continue\bin\Debug\Continue.exe.config
+c:\users\section2\source\repos\NTDers4\Continue\bin\Debug\Continue.exe
+c:\users\section2\source\repos\NTDers4\Continue\bin\Debug\Continue.pdb
+c:\users\section2\source\repos\NTDers4\Continue\obj\Debug\Continue.csprojResolveAssemblyReference.cache
+c:\users\section2\source\repos\NTDers4\Continue\obj\Debug\Continue.csproj.CoreCompileInputs.cache
+c:\users\section2\source\repos\NTDers4\Continue\obj\Debug\Continue.exe
+c:\users\section2\source\repos\NTDers4\Continue\obj\Debug\Continue.pdb

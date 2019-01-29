@@ -1,0 +1,7 @@
+c:\users\section2\source\repos\NTDers4\InnerException\bin\Debug\InnerException.exe.config
+c:\users\section2\source\repos\NTDers4\InnerException\bin\Debug\InnerException.exe
+c:\users\section2\source\repos\NTDers4\InnerException\bin\Debug\InnerException.pdb
+c:\users\section2\source\repos\NTDers4\InnerException\obj\Debug\InnerException.csprojResolveAssemblyReference.cache
+c:\users\section2\source\repos\NTDers4\InnerException\obj\Debug\InnerException.csproj.CoreCompileInputs.cache
+c:\users\section2\source\repos\NTDers4\InnerException\obj\Debug\InnerException.exe
+c:\users\section2\source\repos\NTDers4\InnerException\obj\Debug\InnerException.pdb
